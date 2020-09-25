@@ -1,6 +1,6 @@
 # stefanosx vimfiles
 
-This is my personal plugings I am using in VIM.
+This is my personal collection of plugings I am using in VIM.
 
 # Usage
 ```
